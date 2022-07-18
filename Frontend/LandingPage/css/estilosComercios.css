@@ -1,0 +1,211 @@
+#contenidoRegistro {
+    background-color: rgb(0 0 0 / 47%);
+    height: 158vh;
+  }
+  
+  #formularioRegistro{
+    background-color: #ffffff8f;
+    color: #141619e6;
+    width: 391px;
+    height: 744px;
+    border-radius: 5px;
+    padding: 30px 60px;
+    margin-left: 782px;
+    margin-right: 782px;
+    margin-top: -445px;
+
+  }
+  
+  h1{
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: -28px;
+    font-size: 28px;
+  }
+
+  #registra{
+    font-size: 40px;
+  }
+
+  .control {
+    width: 123%;
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    margin-bottom: 14px;
+    border-radius: 8px;
+    border-width: 0;
+    margin-left: -21px;
+}
+  
+  #imagenInfo{
+    background-color: #ffffff8f;
+      width: 215px;
+      height: 11%;
+      margin-left: 2%;
+      border-radius: 16px;
+  
+  }
+  
+  #imagenLogo{
+    height: 113vh;
+    width: 44vh;
+    margin-top: -349px;
+    margin-left: -19px;
+  }
+
+  #logoColibriFinal{
+    width: 195px;
+    height: 238px;
+    margin-bottom: -335px;
+    margin-top: -89px;
+    margin-left: -38px;
+
+}
+
+.footer{
+  padding-top: 89px;
+}
+.footer .top {
+  background-color: #00416a;
+  padding: 1rem 26%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  color: white;
+}
+
+.footer .top .links {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 7rem;
+}
+
+.footer .bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 0;
+}
+
+.footer .top .content p {
+  color: white;
+  margin-top: 2rem;
+  width: 90%;
+}
+
+.footer .top .link h4 {
+  font-size: 1.7rem;
+  margin-bottom: 1.5rem;
+}
+
+.footer .top .link a {
+  display: inline-block;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.footer .top .link span {
+  color: white;
+}
+
+.footer .top .link a {
+  display: block;
+}
+
+.footer .top .link div {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.footer .top .link div img {
+  margin-right: 1rem;
+}
+
+@media (max-width: 996px) {
+  .footer .top {
+    padding: 5rem 9%;
+    grid-template-columns: 1fr;
+  }
+
+  .footer .top .content {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer .top .links {
+    grid-template-columns: 1fr;
+    gap: 3rem 0;
+  }
+
+  .footer .top .link {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer .bottom {
+    padding: 1.5rem;
+  }
+}
+
+#android{
+  width: 37px;
+    height: 35px;
+}
+
+#apple{
+  width: 160px;
+    height: 36px;
+    margin-top: -100px;
+
+}
+
+#final{
+  background-color: #231f20;
+}
+
+#imagenLocalidad{
+    width: 191px;
+    height: 131px;
+    margin-bottom: 15px;
+}
+
+.boton {
+  background-color: #00416a;
+  color: #fff;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.footerInicio{
+  padding-top: 89px;
+}
+
+#logoColibriFinal{
+    width: 195px;
+    height: 238px;
+    margin-bottom: -335px;
+    margin-top: -89px;
+    margin-left: -38px;
+
+}
+
+#android{
+  width: 37px;
+    height: 35px;
+}
+
+#apple{
+  width: 160px;
+    height: 36px;
+    margin-top: -100px;
+
+}
+
+#final{
+  background-color: #231f20;
+}
+
+#comercios{
+  font-size: 13px;
+}
