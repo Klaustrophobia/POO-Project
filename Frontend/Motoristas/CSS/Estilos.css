@@ -6,9 +6,10 @@
 
 body{
 background-image: url(/Frontend/Motoristas/IMG/Fondo\ 4.jpg);
-background-repeat: no-repeat;
+background-repeat: repeat-y;
 background-size: cover;
 }
+
 
 .form-register{
     width: 400px;

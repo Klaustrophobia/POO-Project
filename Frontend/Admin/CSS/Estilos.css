@@ -8,7 +8,7 @@ body {
     margin: 0;
     font-family: 'Moon 2.0';
     background-image: url(/Frontend/Admin/IMG/Tartan.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: cover;
 }
 
